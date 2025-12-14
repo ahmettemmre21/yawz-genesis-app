@@ -21,10 +21,10 @@ export const minikitConfig = {
 
   miniapp: {
     version: "1",
-    name: "Mini App Quickstart Template",
+    name: "YAWZ Genesis App",
     subtitle: "Quickstart Template",
     description:
-      "A starter template for building Base Mini Apps using Next.js. By Trio Blockchain Labs.",
+      "A starter template for building YAWZ Genesis App using Next.js. By Trio Blockchain Labs.",
     screenshotUrls: [],
     iconUrl: `${ROOT_URL}/icon.png`,
     splashImageUrl: `${ROOT_URL}/splash.png`,
@@ -34,10 +34,10 @@ export const minikitConfig = {
     primaryCategory: "developer-tools",
     tags: ["developer-tools", "productivity"],
     heroImageUrl: `${ROOT_URL}/hero.png`,
-    tagline: "Ship mini apps faster. By TriO",
-    ogTitle: "Mini App Quickstart Template",
+    tagline: "YAWZ Genesis App",
+    ogTitle: "YAWZ Genesis App",
     ogDescription:
-      "A template for building Base Mini Apps using Next.js and TypeScript. By Trio Blockchain Labs",
+      "A template for building YAWZ Genesis App using Next.js and TypeScript. By Trio Blockchain Labs",
     ogImageUrl: `${ROOT_URL}/hero.png`,
   },
 } as const;
